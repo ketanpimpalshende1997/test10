@@ -1,3 +1,5 @@
 Hi I am from Remote repository
 
 Hi am from feature1
+
+Hi I am from feature1 commit2
